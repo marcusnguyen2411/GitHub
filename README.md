@@ -12,6 +12,8 @@ A Python simulation of a car's cruise control system. Instead of using a basic t
   - *Close to target:* Lightens up on the pedal to smoothly glide onto the exact speed.
 - **On/Off Switches:** You can turn P, I, D, Anti-Windup, or Adaptive mode on/off individually in the code to test exactly how each part affects the car's driving.
 
+![Figure 1](pid_simulation_report.png)
+
 ---
 
 ## 🛠️ How the Files Work
